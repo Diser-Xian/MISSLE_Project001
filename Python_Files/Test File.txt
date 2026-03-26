@@ -1,0 +1,3 @@
+Hello, Python!
+File handling is easy with Python.1: i succeed on adding content to this file ><
+hahahahhah i have some problem
